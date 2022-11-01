@@ -4,21 +4,21 @@ Online property companies offer valuations of houses using machine learning tech
 The dataset consists of house prices from King County an area in the US State of Washington, this data also covers Seattle. The dataset was obtained from Kaggle. This data was published/released under CC0: Public Domain. Unfortunately, the user has not indicated the source of the data. Please find the citation and database description in the Glossary and Bibliography. The dataset consisted of 21 variables and 21613 observations.
 
 # Columns :
-* id : A property identification number is a number assigned to parcels of real property by the tax assessor of a particular jurisdiction for purposes of identification and record keeping.
-* date : Date of transaction
-* price : Price of house
-* bedrooms, bathrooms : Number
-* sqft_living, sqft_lot : The Original square footage of the living and lot space when the house was built
-* floors : Total floors in the house
-* waterfront: Whether the house is on a waterfront(1: yes, 0: no)
-* view : special view?
-* condition : Condition of the house
-* grade : Simply put, the grade or grading around your house is the level of the ground. The ground level and how it's graded is the deciding factor of where storm water will flow
-* sqft_above,sqft_basement : Square footage of house apart from basement and basement area
-* yr_built : Built year
-* yr_renovated : Year when the house was renovated
-* zipcode, lat, long : zip code, latitude and logtitude coordinate of the house
-* sqft_living15, sqft_lot15 : The latest square footage of the living and lot space ( was taken in 2015 )
+## id : A property identification number is a number assigned to parcels of real property by the tax assessor of a particular jurisdiction for purposes of identification and record keeping.
+## date : Date of transaction
+## price : Price of house
+## bedrooms, bathrooms : Number
+## sqft_living, sqft_lot : The Original square footage of the living and lot space when the house was built
+## floors : Total floors in the house
+## waterfront: Whether the house is on a waterfront(1: yes, 0: no)
+## view : special view?
+## condition : Condition of the house
+## grade : Simply put, the grade or grading around your house is the level of the ground. The ground level and how it's graded is the deciding factor of where storm water will flow
+## sqft_above,sqft_basement : Square footage of house apart from basement and basement area
+## yr_built : Built year
+## yr_renovated : Year when the house was renovated
+## zipcode, lat, long : zip code, latitude and logtitude coordinate of the house
+## sqft_living15, sqft_lot15 : The latest square footage of the living and lot space ( was taken in 2015 )
 
 # 1. Data Showing, Understanding, and Manipulation :
 ## 1.1 what did we have?
