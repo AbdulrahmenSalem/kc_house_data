@@ -23,7 +23,7 @@ The dataset consists of house prices from King County an area in the US State of
 # 1. Data Showing, Understanding, and Manipulation :
 ## 1.1 what did we have?
 ## 1.2 There are Missing or Duplicated data?
-## 1.3 Which columns are not useful?
+## 1.2.1 Which columns are not useful?
 ## 1.3 Data integration
 ## 1.4 Manipulate Columns Wrong Formating
 ## 1.4.1 Modify Memory Usage
