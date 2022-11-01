@@ -29,14 +29,14 @@ The dataset consists of house prices from King County an area in the US State of
 * 1.4.1 Modify Memory Usage
 * 1.4.2 Zeros
 # 2.Data Analysis
-* 2.1 Outliers
-** Function that handle outliers
-** it takes 5 parameters
-** df = DataFrame that we work on it
-** Display = if u wanna see a box plot of all numerical columns " default = False "
-** Drop = if u wanna drop Outliers " default = False "
-** drop_order = we know that when we drop outliers, the distribution of data will change, that's mean it's possible to appear outliers again in the same column! * * * ** drop_order handling this " default = 1 ", drop for one time
-** columns_to_drop = if u wanna drop specific columns
+## 2.1 Outliers
+* Function that handle outliers
+* it takes 5 parameters
+* df = DataFrame that we work on it
+* Display = if u wanna see a box plot of all numerical columns " default = False "
+* Drop = if u wanna drop Outliers " default = False "
+* drop_order = we know that when we drop outliers, the distribution of data will change, that's mean it's possible to appear outliers again in the same column! * * * * drop_order handling this " default = 1 ", drop for one time
+* columns_to_drop = if u wanna drop specific columns
 
 * 2.2 Min, Mean,Max , and change in mean House Price for each city
 * 2.3 Categorise Price
