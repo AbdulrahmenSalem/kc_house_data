@@ -66,4 +66,4 @@ A full bathroom has a sink, toilet, half bathroom has a tub/shower combo or sepa
 2.10.2 Population Vs Price via Date
 3. Average Price Vs all features
 4. Future work!
-The percentage increase or decrease in the average price with the change of each percentage of the features
+The percentage increase or decrease in the average price with the change of each percentage of the features.
