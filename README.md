@@ -65,5 +65,3 @@ The dataset consists of house prices from King County an area in the US State of
 ## 2.10.1 Population for each city
 ## 2.10.2 Population Vs Price via Date
 ## 3. Average Price Vs all features
-## 4. Future work!
-* The percentage increase or decrease in the average price with the change of each percentage of the features.
